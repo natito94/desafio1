@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "tunica",
+    "description": "slytherin",
+    "price": 15000,
+    "image": "imagen no disponible",
+    "code": "abc123",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "slytherin",
+    "description": "corbata de gala",
+    "price": 1200,
+    "image": "imagen no disponible",
+    "code": "abc123",
+    "stock": 50
+  }
+]
